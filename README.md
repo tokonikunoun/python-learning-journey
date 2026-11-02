@@ -17,7 +17,11 @@ The pace depends on demonstrated understanding.
 
 ## Progress
 
-Completed challenges: 0. Completed projects: 0.
+Completed guided coding exercises: **21**. Completed LeetCode challenges: **0**. Completed projects: **0**.
+
+[Week 1 exercises and learning notes](week_01/README.md) · [Python solutions](week_01/completed_exercises.py)
+
+Week 1 remains in progress: counters, while loops, an independent mini-project, and a mastery check are still outstanding.
 
 ## Publishing routine
 
